@@ -1,0 +1,17 @@
+# Local environment files
+.env
+
+# Build outputs
+*.exe
+*.out
+app
+server
+backend
+
+# Logs and temp files
+*.log
+*~
+
+# Optional local output directories
+bin/
+tmp/
